@@ -5,4 +5,3 @@ BraTS2020_TrainingData/
 BraTS2020_ValidationData/
 Data_Generator.ipynb
 simple_3D_Unet.ipynb
-*.hdf5
